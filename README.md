@@ -9,7 +9,7 @@ A professional simulation environment built in **Godot 4.6** for generating synt
 
 ## 🛠 Setup
 1. Download Godot 4.6 Standard.
-2. Clone this repo: `git clone https://github.com/YOUR_USERNAME/godot-neuro-synthetic-engine.git`
+2. Clone this repo: `git clone https://github.com/saurabhub/godot-neuro-synthetic-engine.git`
 3. Import `project.godot` into the engine.
 4. Press **F5** to start the simulation.
 
