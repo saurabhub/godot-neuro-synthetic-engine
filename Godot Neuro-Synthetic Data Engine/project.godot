@@ -1,0 +1,25 @@
+config_version=5
+
+[application]
+
+config/name="Neuro-Synthetic Data Engine"
+run/main_scene="res://Main.tscn"
+config/features=PackedStringArray("4.3", "Forward Plus")
+config/icon="res://icon.svg"
+
+[autoload]
+
+DataNexus="*res://DataNexus.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+[physics]
+
+3d/physics_engine="GodotPhysics3D"
+
+[rendering]
+
+renderer/rendering_method="forward_plus"
